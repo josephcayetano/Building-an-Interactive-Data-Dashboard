@@ -1,4 +1,4 @@
-# D601-Task-1-Building-an-Interactive-Data-Dashboard
+# D601-AllTasks-Building-an-Interactive-Data-Dashboard
 
 1. README.md - A file describing other files in this repository.
 
