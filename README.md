@@ -6,7 +6,7 @@
 
 3. Task 1 Dashboard.twbx - A Tableau workbook file that contains the dashboard for the medical data.
 
-4. medical_clean.csv - The CSV fie used for Task 1.
+4. medical_clean.csv - The CSV file used for Task 1.
 
 5. [Tableau Public URL](https://public.tableau.com/app/profile/joseph.cayetano/viz/Task1Dashboard_17359420937690/Task1Dashboard) - The link where the dashboard can be accessed in case the .twbx doesn't work.
 
