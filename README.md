@@ -1,5 +1,17 @@
 # D601-AllTasks-Building-an-Interactive-Data-Dashboard
+### Overview
 
+### Interactive Data Dashboard – Hospital Readmission Analysis (Tableau)
+-	Designed an interactive dashboard in Tableau with four visualizations (bar chart, line chart, scatter plot, pie chart) and two key metrics (average charges, length of stay) to support executive decision-making.
+-	Integrated interactive filters (state, complication risk) to allow dynamic data exploration; ensured accessibility with a colorblind-friendly palette and clear annotations.
+-	Communicated insights on patient readmissions, service utilization, and hospital costs, driving actionable recommendations for cost reduction and service optimization.
+### Data Storytelling & Audience Engagement
+-	Developed and delivered a simulated presentation tailored for technical (analysts) and non-technical (executives) audiences, adapting complex analytics into clear, actionable messages.
+-	Applied audience analysis to refine messaging, emphasizing actionable insights like reducing high-risk patient costs and optimizing common services (e.g., blood work).
+-	Implemented best practices in visual storytelling to engage varied stakeholders, focusing on clarity, accessibility, and decision-driven insights.
+
+
+### Files
 1. README.md - A file describing other files in this repository.
 
 2. D601 Task 1 Final.docx - A Word document file that contains the report for Task 1.
