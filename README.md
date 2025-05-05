@@ -1,5 +1,6 @@
 # D601-AllTasks-Building-an-Interactive-Data-Dashboard
 ### Overview
+This project focuses on building an interactive Tableau dashboard to analyze hospital readmissions and present actionable insights. It emphasizes both technical dashboard development and effective data storytelling to engage stakeholders and support decision-making.
 
 ### Interactive Data Dashboard – Hospital Readmission Analysis (Tableau)
 -	Designed an interactive dashboard in Tableau with four visualizations (bar chart, line chart, scatter plot, pie chart) and two key metrics (average charges, length of stay) to support executive decision-making.
