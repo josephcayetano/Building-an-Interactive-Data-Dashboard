@@ -1,4 +1,4 @@
-# D601-AllTasks-Building-an-Interactive-Data-Dashboard
+# Building an Interactive Data Dashboard
 ### Overview
 This project focuses on building an interactive Tableau dashboard to analyze hospital readmissions and present actionable insights. It emphasizes both technical dashboard development and effective data storytelling to engage stakeholders and support decision-making.
 
