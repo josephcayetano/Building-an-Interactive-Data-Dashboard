@@ -1,15 +1,15 @@
 # Building an Interactive Data Dashboard
 ### Overview
-This project focuses on building an interactive Tableau dashboard to analyze hospital readmissions and present actionable insights. It emphasizes both technical dashboard development and effective data storytelling to engage stakeholders and support decision-making.
+This project created an interactive Tableau dashboard to explore hospital readmissions and share insights that support better decisions. It focused on both building the dashboard and clearly explaining the data to different audiences.
 
 ### Interactive Data Dashboard – Hospital Readmission Analysis (Tableau)
--	Designed an interactive dashboard in Tableau with four visualizations (bar chart, line chart, scatter plot, pie chart) and two key metrics (average charges, length of stay) to support executive decision-making.
--	Integrated interactive filters (state, complication risk) to allow dynamic data exploration; ensured accessibility with a colorblind-friendly palette and clear annotations.
--	Communicated insights on patient readmissions, service utilization, and hospital costs, driving actionable recommendations for cost reduction and service optimization.
+-	Built a Tableau dashboard with bar, line, scatter, and pie charts, plus key metrics like average charges and length of stay
+-	Added filters (e.g., state, risk level) so users could explore the data easily; used accessible colors and clear labels
+-	Shared insights on readmissions, hospital services, and costs to recommend ways to reduce expenses and improve care
 ### Data Storytelling & Audience Engagement
--	Developed and delivered a simulated presentation tailored for technical (analysts) and non-technical (executives) audiences, adapting complex analytics into clear, actionable messages.
--	Applied audience analysis to refine messaging, emphasizing actionable insights like reducing high-risk patient costs and optimizing common services (e.g., blood work).
--	Implemented best practices in visual storytelling to engage varied stakeholders, focusing on clarity, accessibility, and decision-driven insights.
+-	Gave a mock presentation for both technical and non-technical audiences, explaining results in a simple and useful way
+-	Focused the message on key takeaways, like lowering high-risk patient costs and improving commonly used services
+-	Used visual storytelling best practices to keep the dashboard clear, accessible, and focused on helping decision-makers
 
 
 ### Files
